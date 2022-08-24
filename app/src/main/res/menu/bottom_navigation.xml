@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottom_nav_dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="Dashboard"
+        app:cnb_backgroundColor="#CCFF90"/>
+
+    <item
+        android:id="@+id/bottom_nav_budget"
+        android:icon="@drawable/ic_baseline_attach_money_24"
+        android:title="Budget"
+        app:cnb_backgroundColor="#CCFF90"/>
+
+    <item
+        android:id="@+id/bottom_nav_statistic"
+        android:icon="@drawable/ic_baseline_auto_graph_24"
+        android:title="Statistic"
+        app:cnb_backgroundColor="#CCFF90"/>
+
+</menu>
